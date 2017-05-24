@@ -14,7 +14,7 @@ test('transform object into string', assert => {
   assert.equal(typeof transform(obj), 'string')
 })
 
-test('transform object into cypher properties', assert => {
+test('transform object with string values into cypher properties', assert => {
   assert.plan(1)
   const props = transform({
     name: 'hello'
