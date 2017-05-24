@@ -1,7 +1,6 @@
 # json-to-cypher
 
 [![Build Status](https://travis-ci.org/bredele/json-to-cypher.svg?branch=master)](https://travis-ci.org/bredele/json-to-cypher)
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg?style=flat-square)](https://gitter.im/vomitjs/Lobby)
 [![NPM](https://img.shields.io/npm/v/json-to-cypher.svg?style=flat-square)](https://www.npmjs.com/package/json-to-cypher)
 [![Downloads](https://img.shields.io/npm/dm/json-to-cypher.svg?style=flat-square)](http://npm-stat.com/charts.html?package=json-to-cypher)
 [![pledge](https://bredele.github.io/contributing-guide/community-pledge.svg)](https://github.com/bredele/contributing-guide/blob/master/community.md)
