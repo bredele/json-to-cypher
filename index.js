@@ -1,7 +1,18 @@
 
 
 /**
+ * Transform Object into cypher properties.
  *
+ * Example:
+ *
+ *  transform({
+ *    name: 'hello'
+ *  })
+ *  // => '{name:"hello"}'
+ *
+ * @param {Object} obj
+ * @return {String}
+ * @api public
  */
 
 module.exports = function (obj) {
