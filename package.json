@@ -1,0 +1,30 @@
+{
+  "name": "json-to-cypher",
+  "version": "1.0.0",
+  "description": "Transform JSON-like objets into cypher properties",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bredele/json-to-cypher.git"
+  },
+  "keywords": [
+    "cypher",
+    "json",
+    "properties"
+  ],
+  "author": "Olivier Wietrich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bredele/json-to-cypher/issues"
+  },
+  "homepage": "https://github.com/bredele/json-to-cypher",
+  "devDependencies": {
+    "tape": "^4.6.3"
+  }
+}
